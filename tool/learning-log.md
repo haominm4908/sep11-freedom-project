@@ -6,14 +6,14 @@
 
 ---
 
-### X/X/XX:
-* Text
+### 3/23/26:
+* I extended the base layer for room for the obstacle course that will be be the characters main form of traveling.
 
 ### X/X/XX:
 * Text
 
 
-<!-- 
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc

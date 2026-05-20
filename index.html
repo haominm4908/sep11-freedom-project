@@ -22,7 +22,15 @@
         <!-- <script src="script.js"></script> -->
         <script>
             // JS
-            
+            // Respawn system
+            let player = runtimeScene.getObjects("Player")[0]; // This is assuming this is "passed" to the object "Player"
+
+                if (player.getZ() < -200) {
+
+                player.setPosition(640, 721);
+
+            player.setZ(10);
+        }
             
         </script>
     </body>
